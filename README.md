@@ -22,6 +22,6 @@ Widget enabled: Keep the most important task on your home screen, mark it done w
 
 ## Privacy Policy
 
-We do not collect any data from our users.
+Just One Task does not collect any data from our users.
 
-Made by Billy Sun, Shashi Liyanage
+> Made by Billy Sun, Shashi Liyanage
