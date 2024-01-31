@@ -1,8 +1,10 @@
-<img alt="Just One Task App Icon" src="JOT-App-Icon.png" width=128>
+<p align="center">
+  <img alt="Just One Task App Icon" src="JOT-App-Icon.png" width=128>
+</p>
 
 # JustOneTask
 
-Focus on the one thing that you need to do!
+Channel yoru focus, one task at a time!
 
 [App store link]
 
@@ -10,12 +12,12 @@ Focus on the one thing that you need to do!
 
 <img alt="Screenshot of app" src="JOT-0.1.2-screenshot.png" width=360>
 
-A very simple todo list to keep you focused on just one task at a time. Snooze if you can't work on it yet.
+Take on your day with this minimalistic todo list. Prioritize one task at a time. If the time isn't right, snooze it for later. Stay focused and get stuff done!
 
 ## Widget
 
 <img alt="Screenshot of widget" src="JOT-0.1.2-widget.png" width=360>
 
-With widget support, you can see what's the most important thing to do on your home screen.
+Widget enabled: Keep the most important task on your home screen, mark it done with a simple tap.
 
 Made by Billy Sun, Shashi Liyanage
