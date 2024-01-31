@@ -20,7 +20,9 @@ Take on your day with this minimalistic todo list. Prioritize one task at a time
 
 Widget enabled: Keep the most important task on your home screen, mark it done with a simple tap.
 
+<a id="privacy">
 ## Privacy Policy
+</a>
 
 Just One Task does not collect any data from our users.
 
