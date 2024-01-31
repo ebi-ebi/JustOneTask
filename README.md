@@ -1,4 +1,4 @@
-[App Icon]
+<img alt="Just One Task App Icon" src="JOT-App-Icon.png" width=128>
 
 # JustOneTask
 
