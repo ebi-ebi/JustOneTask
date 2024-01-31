@@ -20,4 +20,8 @@ Take on your day with this minimalistic todo list. Prioritize one task at a time
 
 Widget enabled: Keep the most important task on your home screen, mark it done with a simple tap.
 
+## Privacy Policy
+
+We do not collect any data from our users.
+
 Made by Billy Sun, Shashi Liyanage
