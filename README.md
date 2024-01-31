@@ -4,7 +4,7 @@
 
 # JustOneTask
 
-Channel yoru focus, one task at a time!
+Channel your focus, one task at a time!
 
 [App store link]
 
