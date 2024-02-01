@@ -6,7 +6,9 @@
 
 Channel your focus, one task at a time!
 
-[App store link]
+<p align="center">
+  <a href="https://apps.apple.com/us/app/justonetask-jot/id6475375044"><img alt="Download from the app store" src="Download_on_the_App_Store_Badge_blk.svg" height=60></a>
+</p>
 
 ## TODO
 
